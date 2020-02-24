@@ -143,7 +143,7 @@ anode_velocity = 16
 tem_gradient_max = 2
 
 circle_num = 100
-enlarge_num = 50
+enlarge_num = 4
 """
 程序开始运行
 """
